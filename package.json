@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-scroll-to-here",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Scroll the page to a given point in the page",
   "directories": {
     "doc": "doc",
